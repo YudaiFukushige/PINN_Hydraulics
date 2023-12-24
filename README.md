@@ -1,0 +1,2 @@
+# PINN_Hydraulics
+PINNを使って水理学の問題を解いてみるリポジトリ
